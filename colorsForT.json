@@ -1,0 +1,31 @@
+{"palette_name": "Minimal LEGO Mosaic Palette",
+    "description": "Palette of 12 LEGO colors for mosaic, with RGB codes and names  ",
+    "colors": 
+    [
+        {
+            "name": "Black",
+            "rgb": [0, 0, 0],
+            "label": "B"
+        },                                                 
+        {
+            "name": "White",
+            "rgb": [255, 255, 255],
+            "label": "W"
+        },
+        {
+            "name": "Bright Blue",
+            "rgb": [0, 100, 200],
+            "label": "U"
+        },
+        {
+            "name": "Medium Lavender",
+            "rgb": [170, 100, 200],
+            "label": "L"
+        },
+        {
+            "name": "Light Nougat",
+            "rgb": [245, 200, 170],
+            "label": "N"
+        }
+    ]
+}
