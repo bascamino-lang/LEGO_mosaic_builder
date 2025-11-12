@@ -1,5 +1,5 @@
 # Make a LEGO Mosaic
-#### Video Demo:  <www.google.it>
+
 #### Description:
 This program takes a picture and produces a lego mosaic from it.
 The colors, sizes, and measurements are taken from the **Canadian LEGO website**.
